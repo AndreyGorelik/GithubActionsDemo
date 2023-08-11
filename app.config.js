@@ -77,5 +77,11 @@ module.exports = {
         projectId: "6621490f-daac-4a48-bc21-a6709274ef62",
       },
     },
+    updates: {
+      url: "https://u.expo.dev/6621490f-daac-4a48-bc21-a6709274ef62",
+    },
+    runtimeVersion: {
+      policy: "appVersion",
+    },
   },
 };
